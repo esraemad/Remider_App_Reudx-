@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Remider_App_Reudx/static/css/main.69fdfdbd.chunk.css",
+    "main.js": "/Remider_App_Reudx/static/js/main.de6f44de.chunk.js",
+    "main.js.map": "/Remider_App_Reudx/static/js/main.de6f44de.chunk.js.map",
+    "runtime~main.js": "/Remider_App_Reudx/static/js/runtime~main.167cde19.js",
+    "runtime~main.js.map": "/Remider_App_Reudx/static/js/runtime~main.167cde19.js.map",
+    "static/css/2.25ef79ed.chunk.css": "/Remider_App_Reudx/static/css/2.25ef79ed.chunk.css",
+    "static/js/2.d487fd7a.chunk.js": "/Remider_App_Reudx/static/js/2.d487fd7a.chunk.js",
+    "static/js/2.d487fd7a.chunk.js.map": "/Remider_App_Reudx/static/js/2.d487fd7a.chunk.js.map",
+    "index.html": "/Remider_App_Reudx/index.html",
+    "precache-manifest.c0a515df1b834672ccecf0f8f4142f14.js": "/Remider_App_Reudx/precache-manifest.c0a515df1b834672ccecf0f8f4142f14.js",
+    "service-worker.js": "/Remider_App_Reudx/service-worker.js",
+    "static/css/2.25ef79ed.chunk.css.map": "/Remider_App_Reudx/static/css/2.25ef79ed.chunk.css.map",
+    "static/css/main.69fdfdbd.chunk.css.map": "/Remider_App_Reudx/static/css/main.69fdfdbd.chunk.css.map",
+    "static/media/all.min.css": "/Remider_App_Reudx/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/logo.jpg": "/Remider_App_Reudx/static/media/logo.3917ebed.jpg"
+  }
+}
